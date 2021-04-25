@@ -1,0 +1,30 @@
+Sprint Review and Retrospective
+Alexander Grimes
+SNHU CS250
+Abstract
+This is a Summary of my time Fulfilling the SNHU travel project in the CS250 class at SNHU. This covers my experience on a fictional team where I took the role of all the typical Scrum-Agile team members and worked on a sprint to complete a working application for a fictional travel company. In my paper below you will find my experience with this process and my beliefs on how the project went using agile. As well as whether this was the right framework for this project or not. This may also be used to help a company decide is Agile is the right choice for them or not. 
+
+Under the role of a product owner, we built out a backlog and user stories for the development team so that they could start the process of creating the app for the customer during the developer role we looked over the user stories and test cases and built an application that met the requirements no more and no less. As the tester we designed all the test cases that deemed weather our developers sprint was successful or a failure and as the scrum master We planned out scrum events to help the team communicate as effectively as possible and at the end the scrum master looks back and creates this review that I am currently writing to help find where improvements can be made.
+
+Honestly, the Scrum-agile approach helped the user stories get completed by throwing most of them out the window in week 6 with the change to the slideshow that backlog had to change to meet the new requests and testing criteria. However, if we had continued down the original plan the user stories and test cases that we created set up a good path for the development of some cool features like a user profile. Although you would need an actual team or much more time to complete all the user stories possibly another two or three sprints of two weeks. The other very useful thing from agile would have been the open lines of communication if we were to receive feedback from the emails that we sent out to the various team members we were also playing it would have worked out fantastically. 
+
+ Without the Agile methodology when the change of direction was brought up the whole project would have had to be scrapped at that point. However, with agile methodology we were instead able to return to the testing create our new test points and redesign the project to meet the customers expectations to the best of our abilities in the time remaining. When you are dealing with a time sensitive project like this SNHU travel app was its more important to have something that makes it out in time rather than having nothing when the time comes and a product when it is no longer relevant. 
+
+Here are some examples of Effective communication with the team during the project.
+ Hello Everyone,
+As you all know we have a new plan going forward with the SNHU Travel Project. To make this transition as smooth as possibly I will need a few things as follows. 
+1.	From the product owner I would like some new user stories for our new direction so that we as a team can get a feel for exactly what the users are looking for in this slideshow functionality. 
+2.	From the tester I would like you to develop new test cases based off the user stories you receive from the product owner so that we can ensure we get as many features functioning as planned in our remaining time, we will start to rework the product off what information we have but the sooner we can get this additional information the better our result of this sprint will be. 
+Thanks,
+Alex
+
+Hello Christy.
+I see that we seem to have changed the design direction with app to a slideshow style.
+Would it be possible to get further details on the features these users are looking to get in this slideshow? initially it seemed we were working towards a webpage with sorting options and menus it would be helpful to have more information on the following. Would the users prefer icons and other quick viewing info on the slides or a menu system to help organize the slideshow to their preferences. I was also unaware of the mobile device functionality being requested would they like this to be full featured or limited to just the initial slideshow? Will their profile be accessible from the mobile application or only from the desktop version? This information would be incredibly useful in determining our test cases. 
+Thanks,
+Alex 
+
+I made use of Trello to keep track of work for all my work so for this project it was a no brained to use it to plan out this project in this fashion. Daily meetings with the group also made for a good open communication that agile supports so much of the user stories and test cases that we built were monumental in deciphering what the users wanted and keeping track of the work that needed to be done I was able to feed these practices into my tool trello to allow for timeline tracking to ensure I completed each stage within the necessary timebox.
+
+I Believe for this project scrum-agile was the correct choice if we had tried a waterfall approach the abrupt change in the middle would have killed our timeline and made the customer unhappy this style of project could easily get out of hand without proper handling from a skilled product owner however in the first set of user stories there was the possibility for a good amount of time-consuming advanced features. In a waterfall methodology we could have designed all those requests and planned them out however it probably would not have been completed on time making the whole effort pointless.
+
